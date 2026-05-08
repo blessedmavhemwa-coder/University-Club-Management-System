@@ -84,5 +84,5 @@ This is a sample design of a system which interacts with the Database and stores
 
 That is basically the application, so have fun :)
 
-If you have any questions or a product in mind dont hesitate, get in touch with the author
+If you have any questions or a product in mind dont hesitate, get in touch with the author<br>
 Blessed Mavhemwa - blessedmavhemwa@gmail.com
