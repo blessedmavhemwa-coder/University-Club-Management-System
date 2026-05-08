@@ -1,5 +1,8 @@
 # University-Club-Management-System
-This is a sample design of a system which interacts with the Database and stores the clubs of a university or school while also being able to perform simple tasks like add members and or activities. The application is local based, that means it can only be accesed upon running the python file named "app.py". The pdf file attached in the repository is the detail explanation of how the application links with the database ie the SQL prompts and html pages emberded in the python code using the Jinja2 package.
+This is a sample design of a system which interacts with the Database and stores the clubs of a university or school while also being able to perform simple tasks like add members and
+or activities. The application is local based, that means it can only be accesed upon running the python file named "app.py". The pdf file attached in the repository is the detail
+explanation of how the application links with the database ie the SQL prompts and html pages emberded in the python code using the Jinja2 package. The password for the admin is
+admin123
 
 ## Pages of the System
 1. Home Page
